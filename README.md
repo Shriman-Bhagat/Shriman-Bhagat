@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shriman-Bhagat 
+- 👋 Hi, I’m @Shriman Bhagat 
 - I'm a student who is exploring to code..
 - 👀 I’m interested in algoriths and data..
 - 🌱 I’m currently learning java and web development...
